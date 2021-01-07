@@ -16,7 +16,8 @@ const output = fs
 console.log('output', JSON.stringify(output, null, 2));
 
 /*
-border: #a7c080
+border: #
+sdfsd
 background: #2a2426
 
 Activity Bar

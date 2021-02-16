@@ -6,7 +6,7 @@ const orders = [
   { amount: 400 },
   { amount: 100 },
   { amount: 325 },
-]
+];
 
 // With for loop
 // let totalAmount = 0;
@@ -15,6 +15,7 @@ const orders = [
 // }
 
 // With reduce
-let totalAmount = orders.reduce((sum, order) => sum + order.amount, 0)
+// .reduce((resultingObject, iteraable) => resultingObject + iteraable.iteraction, resultingObjectValue)
+let totalAmount = orders.reduce((sum, order) => sum + order.amount, 0);
 
-console.log(totalAmount)
+console.log(totalAmount);

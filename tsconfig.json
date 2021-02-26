@@ -1,0 +1,10 @@
+{
+  "exclude": ["node_modules"],
+  "compilerOptions": {
+    "target": "ES6",
+    "watch": true,
+    "module": "commonjs",
+    "outDir": "typescript/ts-built",
+    "rootDir": "typescript"
+  }
+}

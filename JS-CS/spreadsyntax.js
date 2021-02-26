@@ -21,11 +21,3 @@ console.log(lvl1);
 
 const lvl2 = { ...pikachu, ...stats };
 console.log(lvl2);
-
-fetch('url').then(res =>
-  res.json().then(data => {
-    // Do something with the data
-    // e.g., setState(data)
-    console.log(data);
-  })
-);

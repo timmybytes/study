@@ -4,3 +4,5 @@ function solution(str) {
 
 solution('hello');
 solution('thereis');
+
+console.log(solution('hello'));

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1621362472485" clover="3.2.0">
+  <project timestamp="1621362472485" name="All files">
+    <metrics statements="24" coveredstatements="24" conditionals="6" coveredconditionals="6" methods="6" coveredmethods="6" elements="36" coveredelements="36" complexity="0" loc="24" ncloc="24" packages="2" files="2" classes="2"/>
+    <package name="JS-CS.linked-lists">
+      <metrics statements="17" coveredstatements="17" conditionals="4" coveredconditionals="4" methods="5" coveredmethods="5"/>
+      <file name="LinkedList.js" path="/Users/nym/Projects/#Repos/#Learning/study/JS-CS/linked-lists/LinkedList.js">
+        <metrics statements="17" coveredstatements="17" conditionals="4" coveredconditionals="4" methods="5" coveredmethods="5"/>
+        <line num="3" count="5" type="stmt"/>
+        <line num="4" count="5" type="stmt"/>
+        <line num="9" count="12" type="stmt"/>
+        <line num="10" count="12" type="stmt"/>
+        <line num="11" count="12" type="stmt"/>
+        <line num="15" count="4" type="cond" truecount="4" falsecount="0"/>
+        <line num="17" count="2" type="stmt"/>
+        <line num="18" count="2" type="stmt"/>
+        <line num="19" count="2" type="stmt"/>
+        <line num="21" count="2" type="stmt"/>
+        <line num="27" count="12" type="stmt"/>
+        <line num="28" count="12" type="stmt"/>
+        <line num="33" count="1" type="stmt"/>
+        <line num="34" count="4" type="stmt"/>
+        <line num="35" count="4" type="stmt"/>
+        <line num="36" count="10" type="stmt"/>
+        <line num="38" count="4" type="stmt"/>
+      </file>
+    </package>
+    <package name="leetcode">
+      <metrics statements="7" coveredstatements="7" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <file name="removeElement.js" path="/Users/nym/Projects/#Repos/#Learning/study/leetcode/removeElement.js">
+        <metrics statements="7" coveredstatements="7" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="15" count="2" type="stmt"/>
+        <line num="16" count="11" type="cond" truecount="2" falsecount="0"/>
+        <line num="17" count="6" type="stmt"/>
+        <line num="18" count="6" type="stmt"/>
+        <line num="21" count="2" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>

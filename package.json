@@ -20,7 +20,9 @@
     "jest": "^26.6.3"
   },
   "dependencies": {
+    "co": "^4.6.0",
     "node": "^15.4.0",
+    "node-fetch": "^2.6.1",
     "nuclear-js": "^1.4.0"
   }
 }
